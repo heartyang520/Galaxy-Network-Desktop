@@ -1,7 +1,7 @@
 # Galaxy-Network-Desktop
 银河网络桌面壁纸
-## 主页面
-![1](https://github.com/heartyang520/Galaxy-Network-Desktop/assets/51397676/88f9389f-8098-4b15-a25f-3e10d8a2466a)   
+## 主界面
+![3](https://github.com/heartyang520/Galaxy-Network-Desktop/assets/51397676/4ce68818-4ea2-454e-ab8e-885038bd76d9)
 ## 视频播放功能界面
 ![2](https://github.com/heartyang520/Galaxy-Network-Desktop/assets/51397676/168b14a9-b04f-41fa-985d-04365e4a224c)
 # 简介
